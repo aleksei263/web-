@@ -1,0 +1,58 @@
+header{
+    height: 300px;
+    background-color: blueviolet;
+    text-align: center;
+    color: aqua;
+    padding: 50px;
+    font-size: 50px;
+    background-image: url(https://masterpiecer-images.s3.yandex.net/0d8a21093f7511ee9bdcda17faa977f8:upscaled);
+    background-size: cover;
+}
+
+body{
+    margin: 0px;
+}
+
+main{
+    height: 1450px;
+    background-color: blueviolet;
+    text-align: center;
+    color: aqua;
+    padding: 250px;
+    font-size: 50px;
+    background-image: url(https://99px.ru/sstorage/53/2011/10/tmb_24162_5820.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.container{
+    background-color: rgb(73, 95, 61);
+    width: 80%;
+    padding:20px ;
+}
+
+.block1{
+    font-size: 15px;
+    text-align: justify;   
+}
+
+.block2{
+    text-align: center;
+
+}
+
+.social img{
+    width: 100px;
+    padding-left: 10px;
+}
+
+.social{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:200px;
+}
